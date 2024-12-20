@@ -42,13 +42,11 @@ Logout: Click the "Logout" button to end your session.
 ##Screenshots
 Welcome Page
 <img width="960" alt="Screenshot 2024-12-20 142940" src="https://github.com/user-attachments/assets/d2853120-a3a5-4417-a82d-fb53c7f2f8dc" />
-<img width="959" alt="Screenshot 2024-12-20 142949" src="https://github.com/user-attachments/assets/4df70bf1-8b1a-4b2f-a47b-c85ca0c23024" />
-<img width="960" alt="Screenshot 2024-12-20 143003" src="https://github.com/user-attachments/assets/f9e13e70-a1d8-451a-8488-2480b8d20b5b" />
-<img width="960" alt="Screenshot 2024-12-20 143050" src="https://github.com/user-attachments/assets/06b06f5a-15dc-44ab-b3fa-b3fe740d5eea" />
-<img width="960" alt="Screenshot 2024-12-20 143114" src="https://github.com/user-attachments/assets/fe747aa9-a561-46a2-b405-a4d2b0defb63" />
-
 Registration Page
+<img width="959" alt="Screenshot 2024-12-20 142949" src="https://github.com/user-attachments/assets/4df70bf1-8b1a-4b2f-a47b-c85ca0c23024" />
 Login Page
+<img width="960" alt="Screenshot 2024-12-20 143003" src="https://github.com/user-attachments/assets/f9e13e70-a1d8-451a-8488-2480b8d20b5b" />
 Email Verification
+<img width="960" alt="Screenshot 2024-12-20 143114" src="https://github.com/user-attachments/assets/fe747aa9-a561-46a2-b405-a4d2b0defb63" />
 Home Page
-
+<img width="960" alt="Screenshot 2024-12-20 143050" src="https://github.com/user-attachments/assets/06b06f5a-15dc-44ab-b3fa-b3fe740d5eea" />
